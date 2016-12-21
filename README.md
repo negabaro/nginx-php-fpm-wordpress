@@ -6,7 +6,7 @@ docker run  --name wordpress -p 8081:80 negabaro2/nginx-php-fpm-wordpress
 ```
 
   
-You can access http://<DOCKER_HOST>:8081
+You can access http://[DOCKER_HOST]:8081
 
 #●docker build
 
